@@ -4,7 +4,7 @@ A sleek, dark-themed single-page portfolio website showcasing my profile, projec
 
 ## 🖥️ Live Demo
 
-[View the live site](https://ofrancisowino.github.io/YourPortfolioRepoName) *(Update this with your actual GitHub Pages link once deployed)*
+[View the live site](https://ofrancisowino.github.io/ST-FRANCIS-PORTFOLIO) 
 
 ---
 
